@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 45px 20px 45px;
+}
+
+.website-logo {
+  height: 45px;
+}
+
+.hamburger {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 26px;
+}
